@@ -70,7 +70,7 @@ I aim to combine my **development**, **automation**, and **AI/ML** skills to cre
 
 ### 📫 Let’s Connect!
 <p align="center">
-  <a href="mailto:ksainiwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:khushal0503speedfreak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/KK-05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/khushal-sainiwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://youtube.com/@KK05"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
