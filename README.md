@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Khushal Sainiwal</h1>
 
 <p align="center">
-  <em>B.Tech CSE Student | Tech Explorer | Problem Solver | Gamer at Heart 🎮</em>
+  <em> CSE Undergrad | Tech Explorer | Gamer at Heart 🎮</em>
 </p>
 
 ---
@@ -55,9 +55,9 @@ Check out more in my [Repositories](https://github.com/KK-05?tab=repositories) �
 ---
 
 ### 🌱 Currently Exploring
-- Advanced **JavaScript** concepts  
+- Advanced **Cloud Computing** concepts  
 - Hands-on **AI & ML with Python**  
-- Building end-to-end **Web3** DApps  
+- Building Projects to gain hands on experience  
 
 ---
 
@@ -70,10 +70,10 @@ I aim to combine my **development**, **automation**, and **AI/ML** skills to cre
 
 ### 📫 Let’s Connect!
 <p align="center">
-  <a href="mailto:beonbrave@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ksainiwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/KK-05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khushalsainiwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khushal-sainiwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@KK05"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
